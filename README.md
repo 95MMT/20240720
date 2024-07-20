@@ -53,7 +53,7 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
 附上文字稿
 == > 產生會虛擬主播 或 專業老師
 ```
-### [prompt提示詞3](prompt3.md)程式生成: 請幫我完成9*9乘法表的C程式設計
+### [問題3](text3.md)程式生成: 請幫我完成9*9乘法表的C程式設計
 
 
 ## [GenAI_資料結構與演算法](https://github.com/8wingflying/GenAI20240518/blob/main/AI_Pair_Programming/GenAI_Algorithm.md)
