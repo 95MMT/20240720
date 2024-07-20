@@ -38,3 +38,22 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
   - Reflexion()
   - Multimodal CoT(多模態思維鏈提示方法)
   - Graph Prompting(圖形提示詞)
+### 作業
+```
+使用CHATGPT生成一張照片  或上傳自己的照片
+
+== > 產生修飾過的 照片
+
+== > 產生3D(立體圖)的照片
+
+== > 產生會動的公仔
+
+== > 產生會發聲音的公仔
+
+附上文字稿
+== > 產生會虛擬主播 或 專業老師
+```
+### [prompt提示詞3](prompt3.md)程式生成: 請幫我完成9*9乘法表的C程式設計
+
+
+## [GenAI_資料結構與演算法](https://github.com/8wingflying/GenAI20240518/blob/main/AI_Pair_Programming/GenAI_Algorithm.md)
