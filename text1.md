@@ -3,7 +3,9 @@
 ## CHATGPT
 ```
 以下是一份簡報大綱，詳細說明 CIA 三元組（CIA Triad）。CIA 三元組是資訊安全的基礎，包括機密性（Confidentiality）、完整性（Integrity）和可用性（Availability）。每一頁簡報將涵蓋一個主要主題，並提供相關的解釋和範例。
+
 簡報大綱
+
 頁面 1：封面
 標題: CIA 三元組概述
 副標題: 資訊安全的基礎
