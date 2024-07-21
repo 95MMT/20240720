@@ -2,9 +2,9 @@
 
 ## 7/20(六)~7/21(日)
 ### 東臺灣高中職生資安盛會
-'''
+```
 CTF練習平台【140.110.112.223】(最後一段數字可更換 EX: 140.110.112.224 以此類推)
-'''
+```
 ### GenAI 生成式AI 
 - [ChatGPT](https://chatgpt.com/)
 - Google[GEMINI](https://gemini.google.com/app?hl=zh-TW)
